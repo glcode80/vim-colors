@@ -11,6 +11,9 @@
 - [`one`](https://github.com/rakr/vim-one)
 - [`solarized8`](https://github.com/lifepillar/vim-solarized8)
 
+## Added legacy color settings as own colorscheme:
+- `mhputty`
+
 ### Potentially leave in
 - [`onedark`](https://github.com/joshdick/onedark.vim)
 - [`onehalf`](https://github.com/sonph/onehalf)
