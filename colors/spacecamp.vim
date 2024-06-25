@@ -93,7 +93,7 @@ call <sid>hi('TabLineFill', s:spaceBlack, s:spaceBlack, 'none')
 " General
 call <sid>hi('Boolean', s:spaceGoo, s:none, 'none')
 call <sid>hi('Character', s:spaceGoo, s:none, 'none')
-call <sid>hi('Comment', s:spaceGray3, s:none, 'none')
+call <sid>hi('Comment', s:spaceGray3, s:none, 'italic')
 call <sid>hi('Conditional', s:spaceViolet, s:none, 'none')
 call <sid>hi('Constant', s:spaceOrange, s:none, 'none')
 call <sid>hi('Define', s:spaceViolet, s:none, 'none')
