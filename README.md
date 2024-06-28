@@ -9,14 +9,11 @@
 - [`gruvbox`](https://github.com/morhetz/gruvbox)
 - [`molokai`](https://github.com/tomasr/molokai)
 - [`one`](https://github.com/rakr/vim-one)
+- [`onehalf`](https://github.com/sonph/onehalf)
 - [`solarized8`](https://github.com/lifepillar/vim-solarized8)
 
 ## Added legacy color settings as own colorscheme:
 - `mhputty`
-
-### Potentially leave in
-- [`onedark`](https://github.com/joshdick/onedark.vim)
-- [`onehalf`](https://github.com/sonph/onehalf)
 
 ### Removed
 - [`256noir`](https://github.com/andreasvc/vim-256noir)
@@ -40,6 +37,7 @@
 - [`github`](https://github.com/endel/vim-github-colorscheme)
 - [`gotham`](https://github.com/whatyouhide/vim-gotham)
 - [`happy hacking`](https://github.com/yorickpeterse/happy_hacking.vim)
+- [`onedark`](https://github.com/joshdick/onedark.vim)
 - [`papercolor`](https://github.com/NLKNguyen/papercolor-theme)
 - [`parsec`](https://github.com/keith/parsec.vim)
 - [`scheakur`](https://github.com/scheakur/vim-scheakur)
