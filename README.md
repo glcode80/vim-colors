@@ -15,6 +15,9 @@
 ## Added legacy color settings as own colorscheme:
 - `mhputty`
 
+## Added own colorscheme for macos, as normal dayfox doesn't work there (missing lua)
+- `dayfoxmac`
+
 ### Removed
 - [`256noir`](https://github.com/andreasvc/vim-256noir)
 - [`abstract`](https://github.com/jdsimcoe/abstract.vim)
